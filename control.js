@@ -1,9 +1,12 @@
-function control(row){
-  if(row.day > actualday){
+function control(row) {
+  if (row.day > actualday) {
     color = green;
   }
-  else{
+  else {
     color = red;
   }
   return color;
+}
+function findUser() {
+  //todo
 }

@@ -3,3 +3,4 @@ Londýn
 Moskva
 Bratislava
 Brno
+Prešov
