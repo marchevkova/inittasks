@@ -1,0 +1,4 @@
+Praha
+Londýn
+Moskva
+Bratislava
