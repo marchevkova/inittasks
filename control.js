@@ -10,3 +10,4 @@ function control(row) {
 function findUser() {
   //todo
 }
+let entities = ["BEE", "CE", "AM"];

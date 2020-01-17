@@ -4,3 +4,4 @@ Moskva
 Bratislava
 Brno
 Prešov
+Bardejov
